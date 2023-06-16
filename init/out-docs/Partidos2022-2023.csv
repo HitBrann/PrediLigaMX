@@ -1,0 +1,343 @@
+id-partido,temporada,fecha,jornada,equipo-local,equipo-visitante,goles-local,goles-visitante,estadio
+1,2022-2023_1_C,6/01/2023,Jornada 1,Necaxa,Club Atlético de San Luis,2,3,Victoria
+2,2022-2023_1_C,7/01/2023,Jornada 1,América,Querétaro,0,0,Azteca
+3,2022-2023_1_C,7/01/2023,Jornada 1,Monterrey,Guadalajara,0,1,Estadio BBVA
+4,2022-2023_1_C,8/01/2023,Jornada 1,Pumas,FC Juárez,2,1,Olímpico Universitario
+5,2022-2023_1_C,8/01/2023,Jornada 1,Santos Laguna,Tigres,0,3,TSM Corona
+6,2022-2023_1_C,8/01/2023,Jornada 1,Tijuana,Cruz Azul,1,1,Caliente
+7,2022-2023_1_C,9/01/2023,Jornada 1,Pachuca,Puebla,5,1,Hidalgo
+8,2022-2023_1_C,12/01/2023,Jornada 2,Atlas,Mazatlán FC,2,1,Jalisco
+9,2022-2023_1_C,13/01/2023,Jornada 2,Club Atlético de San Luis,Guadalajara,0,0,Alfonso Lastras Ramírez
+10,2022-2023_1_C,13/01/2023,Jornada 2,Puebla,Querétaro,2,0,Cuauhtémoc
+11,2022-2023_1_C,14/01/2023,Jornada 2,Cruz Azul,Monterrey,2,3,Azteca
+12,2022-2023_1_C,14/01/2023,Jornada 2,Toluca,América,2,2,Nemesio Diez
+13,2022-2023_1_C,14/01/2023,Jornada 2,FC Juárez,Tijuana,3,0,Olímpico Benito Juárez
+14,2022-2023_1_C,14/01/2023,Jornada 2,Santos Laguna,Pumas,3,0,TSM Corona
+15,2022-2023_1_C,15/01/2023,Jornada 2,Tigres,Pachuca,4,1,Universitario
+16,2022-2023_1_C,16/01/2023,Jornada 2,León,Necaxa,2,1,Nou Camp
+17,2022-2023_1_C,20/01/2023,Jornada 3,Mazatlán FC,Santos Laguna,1,2,Estadio Mazatlán
+18,2022-2023_1_C,20/01/2023,Jornada 3,Tijuana,Tigres,1,1,Caliente
+19,2022-2023_1_C,21/01/2023,Jornada 3,Monterrey,Club Atlético de San Luis,3,1,Estadio BBVA
+20,2022-2023_1_C,21/01/2023,Jornada 3,América,Puebla,2,2,Azteca
+21,2022-2023_1_C,21/01/2023,Jornada 3,Guadalajara,Toluca,1,2,Estadio AKRON
+22,2022-2023_1_C,21/01/2023,Jornada 3,Necaxa,Cruz Azul,1,0,Victoria
+23,2022-2023_1_C,22/01/2023,Jornada 3,Pumas,León,4,1,Olímpico Universitario
+24,2022-2023_1_C,22/01/2023,Jornada 3,Querétaro,Atlas,3,3,La Corregidora
+25,2022-2023_1_C,22/01/2023,Jornada 3,Pachuca,FC Juárez,4,1,Hidalgo
+26,2022-2023_1_C,26/01/2023,Jornada 4,Atlas,Santos Laguna,2,2,Jalisco
+27,2022-2023_1_C,27/01/2023,Jornada 4,Puebla,Monterrey,1,2,Cuauhtémoc
+28,2022-2023_1_C,27/01/2023,Jornada 4,Tijuana,Pumas,0,0,Caliente
+29,2022-2023_1_C,28/01/2023,Jornada 4,Tigres,Club Atlético de San Luis,0,0,Universitario
+30,2022-2023_1_C,28/01/2023,Jornada 4,América,Mazatlán FC,6,0,Azteca
+31,2022-2023_1_C,28/01/2023,Jornada 4,FC Juárez,Guadalajara,1,2,Olímpico Benito Juárez
+32,2022-2023_1_C,29/01/2023,Jornada 4,Toluca,León,0,0,Nemesio Diez
+33,2022-2023_1_C,29/01/2023,Jornada 4,Pachuca,Necaxa,2,1,Hidalgo
+34,2022-2023_1_C,1/02/2023,Jornada 1,Atlas,Toluca,0,0,Jalisco
+35,2022-2023_1_C,2/02/2023,Jornada 5,Club Atlético de San Luis,Puebla,2,0,Alfonso Lastras Ramírez
+36,2022-2023_1_C,3/02/2023,Jornada 5,Necaxa,Tijuana,1,1,Victoria
+37,2022-2023_1_C,3/02/2023,Jornada 5,Mazatlán FC,FC Juárez,2,3,Estadio Mazatlán
+38,2022-2023_1_C,4/02/2023,Jornada 5,León,Pachuca,0,1,Nou Camp
+39,2022-2023_1_C,4/02/2023,Jornada 5,Cruz Azul,Tigres,0,1,Azteca
+40,2022-2023_1_C,4/02/2023,Jornada 5,Santos Laguna,América,2,2,TSM Corona
+41,2022-2023_1_C,5/02/2023,Jornada 5,Pumas,Atlas,2,2,Olímpico Universitario
+42,2022-2023_1_C,5/02/2023,Jornada 5,Guadalajara,Querétaro,1,1,Estadio AKRON
+43,2022-2023_1_C,5/02/2023,Jornada 5,Monterrey,Toluca,2,1,Estadio BBVA
+44,2022-2023_1_C,9/02/2023,Jornada 6,Querétaro,León,0,3,La Corregidora
+45,2022-2023_1_C,9/02/2023,Jornada 6,Atlas,Monterrey,0,2,Jalisco
+46,2022-2023_1_C,10/02/2023,Jornada 6,Puebla,Mazatlán FC,3,1,Cuauhtémoc
+47,2022-2023_1_C,10/02/2023,Jornada 6,Tijuana,Club Atlético de San Luis,1,0,Caliente
+48,2022-2023_1_C,11/02/2023,Jornada 6,América,Necaxa,2,1,Azteca
+49,2022-2023_1_C,11/02/2023,Jornada 6,FC Juárez,Santos Laguna,3,1,Olímpico Benito Juárez
+50,2022-2023_1_C,11/02/2023,Jornada 6,Tigres,Pumas,4,2,Universitario
+51,2022-2023_1_C,11/02/2023,Jornada 6,Pachuca,Guadalajara,1,1,Hidalgo
+52,2022-2023_1_C,12/02/2023,Jornada 6,Toluca,Cruz Azul,3,1,Nemesio Diez
+53,2022-2023_1_C,14/02/2023,Jornada 7,León,Puebla,2,0,Nou Camp
+54,2022-2023_1_C,14/02/2023,Jornada 7,Tigres,FC Juárez,0,0,Universitario
+55,2022-2023_1_C,14/02/2023,Jornada 7,Club Atlético de San Luis,América,1,3,Alfonso Lastras Ramírez
+56,2022-2023_1_C,15/02/2023,Jornada 7,Monterrey,Querétaro,2,0,Estadio BBVA
+57,2022-2023_1_C,15/02/2023,Jornada 7,Guadalajara,Tijuana,2,1,Estadio AKRON
+58,2022-2023_1_C,15/02/2023,Jornada 7,Necaxa,Pumas,3,1,Victoria
+59,2022-2023_1_C,16/02/2023,Jornada 7,Mazatlán FC,Pachuca,2,3,Estadio Mazatlán
+60,2022-2023_1_C,17/02/2023,Jornada 8,FC Juárez,León,0,0,Olímpico Benito Juárez
+61,2022-2023_1_C,17/02/2023,Jornada 8,Puebla,Cruz Azul,1,3,Cuauhtémoc
+62,2022-2023_1_C,18/02/2023,Jornada 8,Club Atlético de San Luis,Santos Laguna,1,1,Alfonso Lastras Ramírez
+63,2022-2023_1_C,18/02/2023,Jornada 8,Monterrey,Necaxa,2,1,Estadio BBVA
+64,2022-2023_1_C,18/02/2023,Jornada 8,Atlas,Tigres,0,1,Jalisco
+65,2022-2023_1_C,18/02/2023,Jornada 8,Pumas,Guadalajara,1,2,Olímpico Universitario
+66,2022-2023_1_C,19/02/2023,Jornada 8,Querétaro,Mazatlán FC,1,1,La Corregidora
+67,2022-2023_1_C,19/02/2023,Jornada 8,América,Tijuana,2,1,Azteca
+68,2022-2023_1_C,19/02/2023,Jornada 8,Pachuca,Toluca,1,2,Hidalgo
+69,2022-2023_1_C,22/02/2023,Jornada 7,Cruz Azul,Atlas,1,0,Azteca
+70,2022-2023_1_C,23/02/2023,Jornada 7,Santos Laguna,Toluca,0,5,TSM Corona
+71,2022-2023_1_C,24/02/2023,Jornada 9,Necaxa,Querétaro,1,1,Victoria
+72,2022-2023_1_C,24/02/2023,Jornada 9,Mazatlán FC,Pumas,1,2,Estadio Mazatlán
+73,2022-2023_1_C,25/02/2023,Jornada 9,Cruz Azul,FC Juárez,1,0,Azteca
+74,2022-2023_1_C,25/02/2023,Jornada 9,Tigres,Guadalajara,1,2,Universitario
+75,2022-2023_1_C,25/02/2023,Jornada 9,Atlas,América,2,2,Jalisco
+76,2022-2023_1_C,26/02/2023,Jornada 9,Toluca,Club Atlético de San Luis,2,0,Nemesio Diez
+77,2022-2023_1_C,26/02/2023,Jornada 9,Santos Laguna,Puebla,3,2,TSM Corona
+78,2022-2023_1_C,26/02/2023,Jornada 9,Tijuana,Pachuca,2,0,Caliente
+79,2022-2023_1_C,27/02/2023,Jornada 9,León,Monterrey,1,1,Nou Camp
+80,2022-2023_1_C,3/03/2023,Jornada 10,Necaxa,Tigres,0,1,Victoria
+81,2022-2023_1_C,3/03/2023,Jornada 10,Mazatlán FC,Cruz Azul,3,1,Estadio Mazatlán
+82,2022-2023_1_C,3/03/2023,Jornada 10,Tijuana,Atlas,1,1,Caliente
+83,2022-2023_1_C,4/03/2023,Jornada 10,León,Club Atlético de San Luis,2,0,Nou Camp
+84,2022-2023_1_C,4/03/2023,Jornada 10,América,Pachuca,0,3,Azteca
+85,2022-2023_1_C,4/03/2023,Jornada 10,Monterrey,FC Juárez,3,0,Estadio BBVA
+86,2022-2023_1_C,4/03/2023,Jornada 10,Guadalajara,Santos Laguna,2,0,Estadio AKRON
+87,2022-2023_1_C,5/03/2023,Jornada 10,Pumas,Puebla,2,4,Olímpico Universitario
+88,2022-2023_1_C,5/03/2023,Jornada 10,Querétaro,Toluca,1,0,La Corregidora
+89,2022-2023_1_C,10/03/2023,Jornada 11,Club Atlético de San Luis,Querétaro,2,0,Alfonso Lastras Ramírez
+90,2022-2023_1_C,10/03/2023,Jornada 11,Puebla,Guadalajara,1,0,Cuauhtémoc
+91,2022-2023_1_C,11/03/2023,Jornada 11,Atlas,León,0,1,Jalisco
+92,2022-2023_1_C,11/03/2023,Jornada 11,Cruz Azul,Pumas,1,0,Azteca
+93,2022-2023_1_C,11/03/2023,Jornada 11,Tigres,América,0,2,Universitario
+94,2022-2023_1_C,12/03/2023,Jornada 11,Toluca,Mazatlán FC,4,1,Nemesio Diez
+95,2022-2023_1_C,12/03/2023,Jornada 11,Pachuca,Monterrey,1,2,Hidalgo
+96,2022-2023_1_C,12/03/2023,Jornada 11,Santos Laguna,Tijuana,3,2,TSM Corona
+97,2022-2023_1_C,12/03/2023,Jornada 11,FC Juárez,Necaxa,1,1,Olímpico Benito Juárez
+98,2022-2023_1_C,17/03/2023,Jornada 12,Puebla,Atlas,0,4,Cuauhtémoc
+99,2022-2023_1_C,17/03/2023,Jornada 12,Tijuana,Toluca,3,3,Caliente
+100,2022-2023_1_C,17/03/2023,Jornada 12,Mazatlán FC,Necaxa,0,1,Estadio Mazatlán
+101,2022-2023_1_C,18/03/2023,Jornada 12,Cruz Azul,Club Atlético de San Luis,1,0,Azteca
+102,2022-2023_1_C,18/03/2023,Jornada 12,Tigres,Monterrey,0,1,Universitario
+103,2022-2023_1_C,18/03/2023,Jornada 12,Guadalajara,América,2,4,Estadio AKRON
+104,2022-2023_1_C,19/03/2023,Jornada 12,Pumas,Pachuca,0,2,Olímpico Universitario
+105,2022-2023_1_C,19/03/2023,Jornada 12,Querétaro,FC Juárez,2,2,La Corregidora
+106,2022-2023_1_C,19/03/2023,Jornada 12,León,Santos Laguna,4,1,Nou Camp
+107,2022-2023_1_C,24/03/2023,Jornada 1,Mazatlán FC,León,1,2,Estadio Mazatlán
+108,2022-2023_1_C,29/03/2023,Jornada 4,Querétaro,Cruz Azul,2,2,La Corregidora
+109,2022-2023_1_C,31/03/2023,Jornada 13,Necaxa,Santos Laguna,0,0,Victoria
+110,2022-2023_1_C,31/03/2023,Jornada 13,FC Juárez,Puebla,0,2,Olímpico Benito Juárez
+111,2022-2023_1_C,1/04/2023,Jornada 13,Pachuca,Cruz Azul,0,2,Hidalgo
+112,2022-2023_1_C,1/04/2023,Jornada 13,América,León,2,2,Azteca
+113,2022-2023_1_C,1/04/2023,Jornada 13,Monterrey,Tijuana,4,0,Estadio BBVA
+114,2022-2023_1_C,1/04/2023,Jornada 13,Atlas,Guadalajara,3,3,Jalisco
+115,2022-2023_1_C,2/04/2023,Jornada 13,Toluca,Tigres,3,2,Nemesio Diez
+116,2022-2023_1_C,2/04/2023,Jornada 13,Club Atlético de San Luis,Mazatlán FC,2,1,Alfonso Lastras Ramírez
+117,2022-2023_1_C,2/04/2023,Jornada 13,Querétaro,Pumas,1,0,La Corregidora
+118,2022-2023_1_C,7/04/2023,Jornada 14,Puebla,Toluca,1,2,Cuauhtémoc
+119,2022-2023_1_C,7/04/2023,Jornada 14,Tijuana,Querétaro,1,2,Caliente
+120,2022-2023_1_C,8/04/2023,Jornada 14,Guadalajara,Necaxa,1,0,Estadio AKRON
+121,2022-2023_1_C,8/04/2023,Jornada 14,Tigres,Mazatlán FC,1,2,Universitario
+122,2022-2023_1_C,8/04/2023,Jornada 14,León,Cruz Azul,0,0,Nou Camp
+123,2022-2023_1_C,8/04/2023,Jornada 14,América,Monterrey,2,1,Azteca
+124,2022-2023_1_C,9/04/2023,Jornada 14,Pumas,Club Atlético de San Luis,3,1,Olímpico Universitario
+125,2022-2023_1_C,9/04/2023,Jornada 14,Santos Laguna,Pachuca,1,4,TSM Corona
+126,2022-2023_1_C,9/04/2023,Jornada 14,FC Juárez,Atlas,1,1,Olímpico Benito Juárez
+127,2022-2023_1_C,13/04/2023,Jornada 15,Club Atlético de San Luis,FC Juárez,2,0,Alfonso Lastras Ramírez
+128,2022-2023_1_C,14/04/2023,Jornada 15,Necaxa,Puebla,1,1,Victoria
+129,2022-2023_1_C,14/04/2023,Jornada 15,Mazatlán FC,Tijuana,1,2,Estadio Mazatlán
+130,2022-2023_1_C,15/04/2023,Jornada 15,Atlas,Pachuca,4,1,Jalisco
+131,2022-2023_1_C,15/04/2023,Jornada 15,León,Guadalajara,0,2,Nou Camp
+132,2022-2023_1_C,15/04/2023,Jornada 15,Cruz Azul,América,1,3,Azteca
+133,2022-2023_1_C,16/04/2023,Jornada 15,Pumas,Toluca,3,1,Olímpico Universitario
+134,2022-2023_1_C,16/04/2023,Jornada 15,Querétaro,Tigres,0,0,La Corregidora
+135,2022-2023_1_C,16/04/2023,Jornada 15,Monterrey,Santos Laguna,1,2,Estadio BBVA
+136,2022-2023_1_C,20/04/2023,Jornada 16,Tigres,Puebla,1,0,Universitario
+137,2022-2023_1_C,21/04/2023,Jornada 16,Mazatlán FC,Monterrey,0,2,Estadio Mazatlán
+138,2022-2023_1_C,21/04/2023,Jornada 16,Necaxa,Atlas,1,3,Victoria
+139,2022-2023_1_C,21/04/2023,Jornada 16,Tijuana,León,0,0,Caliente
+140,2022-2023_1_C,22/04/2023,Jornada 16,Pachuca,Club Atlético de San Luis,2,1,Hidalgo
+141,2022-2023_1_C,22/04/2023,Jornada 16,Guadalajara,Cruz Azul,2,1,Estadio AKRON
+142,2022-2023_1_C,22/04/2023,Jornada 16,América,Pumas,1,1,Azteca
+143,2022-2023_1_C,23/04/2023,Jornada 16,Toluca,FC Juárez,1,1,Nemesio Diez
+144,2022-2023_1_C,23/04/2023,Jornada 16,Santos Laguna,Querétaro,0,2,TSM Corona
+145,2022-2023_1_C,28/04/2023,Jornada 17,FC Juárez,América,0,1,Olímpico Benito Juárez
+146,2022-2023_1_C,29/04/2023,Jornada 17,Puebla,Tijuana,5,2,Cuauhtémoc
+147,2022-2023_1_C,29/04/2023,Jornada 17,Club Atlético de San Luis,Atlas,0,0,Alfonso Lastras Ramírez
+148,2022-2023_1_C,29/04/2023,Jornada 17,Monterrey,Pumas,4,1,Estadio BBVA
+149,2022-2023_1_C,29/04/2023,Jornada 17,Guadalajara,Mazatlán FC,4,1,Estadio AKRON
+150,2022-2023_1_C,29/04/2023,Jornada 17,Cruz Azul,Santos Laguna,3,2,Azteca
+151,2022-2023_1_C,30/04/2023,Jornada 17,Toluca,Necaxa,3,0,Nemesio Diez
+152,2022-2023_1_C,30/04/2023,Jornada 17,Querétaro,Pachuca,0,1,La Corregidora
+153,2022-2023_1_C,30/04/2023,Jornada 17,León,Tigres,3,0,Nou Camp
+154,2022-2023_1_C,6/05/2023,Recalificación,Cruz Azul,Atlas,0,1,Azteca
+155,2022-2023_1_C,6/05/2023,Recalificación,Pachuca,Santos Laguna,4,4,Hidalgo
+156,2022-2023_1_C,7/05/2023,Recalificación,León,Club Atlético de San Luis,1,3,Nou Camp
+157,2022-2023_1_C,7/05/2023,Recalificación,Tigres,Puebla,1,0,Universitario
+158,2022-2023_1_C,10/05/2023,Cuartos Ida,Santos Laguna,Monterrey,0,0,TSM Corona
+159,2022-2023_1_C,10/05/2023,Cuartos Ida,Club Atlético de San Luis,América,1,3,Alfonso Lastras Ramírez
+160,2022-2023_1_C,11/05/2023,Cuartos Ida,Atlas,Guadalajara,1,0,Jalisco
+161,2022-2023_1_C,11/05/2023,Cuartos Ida,Tigres,Toluca,4,1,Universitario
+162,2022-2023_1_C,13/05/2023,Cuartos Vuelta,Monterrey,Santos Laguna,2,0,Estadio BBVA
+163,2022-2023_1_C,13/05/2023,Cuartos Vuelta,América,Club Atlético de San Luis,1,2,Azteca
+164,2022-2023_1_C,14/05/2023,Cuartos Vuelta,Toluca,Tigres,3,1,Nemesio Diez
+165,2022-2023_1_C,14/05/2023,Cuartos Vuelta,Guadalajara,Atlas,1,0,Estadio AKRON
+166,2022-2023_1_C,17/05/2023,Semifinal Ida,Tigres,Monterrey,1,1,Universitario
+167,2022-2023_1_C,18/05/2023,Semifinal Ida,Guadalajara,América,0,1,Estadio AKRON
+168,2022-2023_1_C,20/05/2023,Semifinal Vuelta,Monterrey,Tigres,0,1,Estadio BBVA
+169,2022-2023_1_C,21/05/2023,Semifinal Vuelta,América,Guadalajara,1,3,Azteca
+170,2022-2023_1_C,25/05/2023,Final Ida,Tigres,Guadalajara,0,0,Universitario
+171,2022-2023_1_C,28/05/2023,Final Vuelta,Guadalajara,Tigres,2,3,Estadio AKRON
+172,2022-2023_2_A,1/07/2022,Jornada 1,Mazatlán FC,Puebla,2,4,Estadio Mazatlán
+173,2022-2023_2_A,2/07/2022,Jornada 1,Necaxa,Toluca,1,3,Victoria
+174,2022-2023_2_A,2/07/2022,Jornada 1,Guadalajara,FC Juárez,0,0,Estadio AKRON
+175,2022-2023_2_A,2/07/2022,Jornada 1,Tigres,Cruz Azul,2,3,Universitario
+176,2022-2023_2_A,2/07/2022,Jornada 1,América,Atlas,0,0,Azteca
+177,2022-2023_2_A,3/07/2022,Jornada 1,Pumas,Tijuana,1,1,Olímpico Universitario
+178,2022-2023_2_A,3/07/2022,Jornada 1,Club Atlético de San Luis,León,1,2,Alfonso Lastras Ramírez
+179,2022-2023_2_A,3/07/2022,Jornada 1,Santos Laguna,Monterrey,4,3,TSM Corona
+180,2022-2023_2_A,4/07/2022,Jornada 1,Pachuca,Querétaro,2,0,Hidalgo
+181,2022-2023_2_A,8/07/2022,Jornada 2,Mazatlán FC,Tigres,0,1,Estadio Mazatlán
+182,2022-2023_2_A,8/07/2022,Jornada 2,Puebla,Santos Laguna,1,0,Cuauhtémoc
+183,2022-2023_2_A,8/07/2022,Jornada 2,Tijuana,FC Juárez,0,2,Caliente
+184,2022-2023_2_A,9/07/2022,Jornada 2,León,Pumas,3,3,Nou Camp
+185,2022-2023_2_A,9/07/2022,Jornada 2,Guadalajara,Club Atlético de San Luis,0,1,Estadio AKRON
+186,2022-2023_2_A,9/07/2022,Jornada 2,Cruz Azul,Pachuca,1,2,Azteca
+187,2022-2023_2_A,9/07/2022,Jornada 2,Monterrey,América,3,2,Estadio BBVA
+188,2022-2023_2_A,10/07/2022,Jornada 2,Toluca,Atlas,3,2,Nemesio Diez
+189,2022-2023_2_A,10/07/2022,Jornada 2,Querétaro,Necaxa,1,2,La Corregidora
+190,2022-2023_2_A,13/07/2022,Jornada 3,América,Toluca,1,0,Azteca
+191,2022-2023_2_A,15/07/2022,Jornada 3,Puebla,León,1,1,Cuauhtémoc
+192,2022-2023_2_A,15/07/2022,Jornada 3,FC Juárez,Querétaro,1,1,Olímpico Benito Juárez
+193,2022-2023_2_A,16/07/2022,Jornada 3,Atlas,Cruz Azul,3,2,Jalisco
+194,2022-2023_2_A,16/07/2022,Jornada 3,Santos Laguna,Guadalajara,1,1,TSM Corona
+195,2022-2023_2_A,17/07/2022,Jornada 3,Pumas,Necaxa,1,0,Olímpico Universitario
+196,2022-2023_2_A,17/07/2022,Jornada 3,Club Atlético de San Luis,Monterrey,0,1,Alfonso Lastras Ramírez
+197,2022-2023_2_A,17/07/2022,Jornada 3,Tigres,Tijuana,1,0,Universitario
+198,2022-2023_2_A,18/07/2022,Jornada 3,Pachuca,Mazatlán FC,1,1,Hidalgo
+199,2022-2023_2_A,20/07/2022,Jornada 4,Guadalajara,León,0,0,Estadio AKRON
+200,2022-2023_2_A,21/07/2022,Jornada 4,Querétaro,Monterrey,0,3,La Corregidora
+201,2022-2023_2_A,22/07/2022,Jornada 4,Mazatlán FC,Club Atlético de San Luis,1,1,Estadio Mazatlán
+202,2022-2023_2_A,22/07/2022,Jornada 4,Necaxa,FC Juárez,1,0,Victoria
+203,2022-2023_2_A,23/07/2022,Jornada 4,Toluca,Santos Laguna,2,1,Nemesio Diez
+204,2022-2023_2_A,23/07/2022,Jornada 4,Cruz Azul,Puebla,2,2,Azteca
+205,2022-2023_2_A,23/07/2022,Jornada 4,Tijuana,América,2,0,Caliente
+206,2022-2023_2_A,23/07/2022,Jornada 4,Tigres,Atlas,2,0,Universitario
+207,2022-2023_2_A,24/07/2022,Jornada 4,Pachuca,Pumas,0,0,Hidalgo
+208,2022-2023_2_A,26/07/2022,Jornada 5,Atlas,Tijuana,1,2,Jalisco
+209,2022-2023_2_A,26/07/2022,Jornada 5,Monterrey,Puebla,1,0,Estadio BBVA
+210,2022-2023_2_A,26/07/2022,Jornada 5,FC Juárez,Tigres,0,1,Olímpico Benito Juárez
+211,2022-2023_2_A,26/07/2022,Jornada 5,Club Atlético de San Luis,Cruz Azul,0,0,Alfonso Lastras Ramírez
+212,2022-2023_2_A,26/07/2022,Jornada 5,León,Toluca,0,1,Nou Camp
+213,2022-2023_2_A,27/07/2022,Jornada 5,Querétaro,Guadalajara,2,2,La Corregidora
+214,2022-2023_2_A,27/07/2022,Jornada 5,Necaxa,Pachuca,2,0,Victoria
+215,2022-2023_2_A,27/07/2022,Jornada 5,Pumas,Mazatlán FC,1,1,Olímpico Universitario
+216,2022-2023_2_A,29/07/2022,Jornada 6,FC Juárez,Toluca,1,1,Olímpico Benito Juárez
+217,2022-2023_2_A,30/07/2022,Jornada 6,Cruz Azul,Necaxa,1,0,Azteca
+218,2022-2023_2_A,30/07/2022,Jornada 6,Tigres,Querétaro,2,1,Universitario
+219,2022-2023_2_A,30/07/2022,Jornada 6,Guadalajara,Pachuca,0,0,Estadio AKRON
+220,2022-2023_2_A,30/07/2022,Jornada 6,Puebla,Club Atlético de San Luis,0,0,Cuauhtémoc
+221,2022-2023_2_A,30/07/2022,Jornada 6,Tijuana,Mazatlán FC,2,0,Caliente
+222,2022-2023_2_A,31/07/2022,Jornada 6,Pumas,Monterrey,1,1,Olímpico Universitario
+223,2022-2023_2_A,31/07/2022,Jornada 6,Santos Laguna,Atlas,1,0,TSM Corona
+224,2022-2023_2_A,31/07/2022,Jornada 6,León,América,3,2,Nou Camp
+225,2022-2023_2_A,2/08/2022,Jornada 16,Toluca,Puebla,1,1,Nemesio Diez
+226,2022-2023_2_A,3/08/2022,Jornada 16,FC Juárez,Club Atlético de San Luis,1,1,Olímpico Benito Juárez
+227,2022-2023_2_A,4/08/2022,Jornada 7,Atlas,Querétaro,3,1,Jalisco
+228,2022-2023_2_A,5/08/2022,Jornada 7,Mazatlán FC,Guadalajara,2,1,Estadio Mazatlán
+229,2022-2023_2_A,6/08/2022,Jornada 7,Monterrey,León,5,1,Estadio BBVA
+230,2022-2023_2_A,6/08/2022,Jornada 7,Santos Laguna,Cruz Azul,4,0,TSM Corona
+231,2022-2023_2_A,7/08/2022,Jornada 7,Toluca,Tijuana,3,1,Nemesio Diez
+232,2022-2023_2_A,7/08/2022,Jornada 7,Club Atlético de San Luis,Necaxa,1,2,Alfonso Lastras Ramírez
+233,2022-2023_2_A,7/08/2022,Jornada 7,Pachuca,Tigres,2,0,Hidalgo
+234,2022-2023_2_A,7/08/2022,Jornada 7,América,FC Juárez,2,1,Azteca
+235,2022-2023_2_A,11/08/2022,Jornada 8,Querétaro,Club Atlético de San Luis,1,1,La Corregidora
+236,2022-2023_2_A,12/08/2022,Jornada 8,Necaxa,Monterrey,1,2,Victoria
+237,2022-2023_2_A,12/08/2022,Jornada 8,Tijuana,Puebla,3,3,Caliente
+238,2022-2023_2_A,13/08/2022,Jornada 8,León,Mazatlán FC,0,3,Nou Camp
+239,2022-2023_2_A,13/08/2022,Jornada 8,Pumas,América,0,3,Olímpico Universitario
+240,2022-2023_2_A,13/08/2022,Jornada 8,Guadalajara,Atlas,1,1,Estadio AKRON
+241,2022-2023_2_A,14/08/2022,Jornada 8,Cruz Azul,Toluca,2,3,Azteca
+242,2022-2023_2_A,14/08/2022,Jornada 8,Tigres,Santos Laguna,2,0,Universitario
+243,2022-2023_2_A,16/08/2022,Jornada 9,Atlas,FC Juárez,0,1,Jalisco
+244,2022-2023_2_A,16/08/2022,Jornada 9,Mazatlán FC,Querétaro,1,1,Estadio Mazatlán
+245,2022-2023_2_A,16/08/2022,Jornada 9,Puebla,Necaxa,2,2,Cuauhtémoc
+246,2022-2023_2_A,17/08/2022,Jornada 9,Toluca,Monterrey,1,1,Nemesio Diez
+247,2022-2023_2_A,17/08/2022,Jornada 9,Cruz Azul,Tijuana,1,2,Azteca
+248,2022-2023_2_A,17/08/2022,Jornada 9,Pachuca,América,0,3,Hidalgo
+249,2022-2023_2_A,18/08/2022,Jornada 9,Santos Laguna,León,2,1,TSM Corona
+250,2022-2023_2_A,18/08/2022,Jornada 9,Club Atlético de San Luis,Pumas,3,2,Alfonso Lastras Ramírez
+251,2022-2023_2_A,19/08/2022,Jornada 10,Necaxa,Guadalajara,0,4,Victoria
+252,2022-2023_2_A,20/08/2022,Jornada 10,Querétaro,Tijuana,2,0,La Corregidora
+253,2022-2023_2_A,20/08/2022,Jornada 10,Atlas,Puebla,1,1,Jalisco
+254,2022-2023_2_A,20/08/2022,Jornada 10,Monterrey,Tigres,0,0,Estadio BBVA
+255,2022-2023_2_A,20/08/2022,Jornada 10,América,Cruz Azul,7,0,Azteca
+256,2022-2023_2_A,20/08/2022,Jornada 10,FC Juárez,Mazatlán FC,1,1,Olímpico Benito Juárez
+257,2022-2023_2_A,21/08/2022,Jornada 10,Pumas,Santos Laguna,1,5,Olímpico Universitario
+258,2022-2023_2_A,21/08/2022,Jornada 10,Club Atlético de San Luis,Toluca,1,0,Alfonso Lastras Ramírez
+259,2022-2023_2_A,21/08/2022,Jornada 10,Pachuca,León,1,0,Hidalgo
+260,2022-2023_2_A,23/08/2022,Jornada 16,Guadalajara,Monterrey,1,0,Estadio AKRON
+261,2022-2023_2_A,23/08/2022,Jornada 16,Querétaro,América,0,1,La Corregidora
+262,2022-2023_2_A,24/08/2022,Jornada 16,Pumas,Tigres,1,1,Olímpico Universitario
+263,2022-2023_2_A,25/08/2022,Jornada 16,Pachuca,Atlas,3,1,Hidalgo
+264,2022-2023_2_A,25/08/2022,Jornada 16,Tijuana,Santos Laguna,0,2,Caliente
+265,2022-2023_2_A,26/08/2022,Jornada 11,Puebla,FC Juárez,2,2,Cuauhtémoc
+266,2022-2023_2_A,26/08/2022,Jornada 11,Mazatlán FC,América,1,3,Estadio Mazatlán
+267,2022-2023_2_A,27/08/2022,Jornada 11,Cruz Azul,Querétaro,2,1,Azteca
+268,2022-2023_2_A,27/08/2022,Jornada 11,Tigres,Necaxa,0,0,Universitario
+269,2022-2023_2_A,27/08/2022,Jornada 11,Guadalajara,Pumas,3,1,Estadio AKRON
+270,2022-2023_2_A,28/08/2022,Jornada 11,Toluca,Pachuca,1,4,Nemesio Diez
+271,2022-2023_2_A,28/08/2022,Jornada 11,León,Atlas,4,2,Nou Camp
+272,2022-2023_2_A,28/08/2022,Jornada 11,Santos Laguna,Club Atlético de San Luis,4,1,TSM Corona
+273,2022-2023_2_A,28/08/2022,Jornada 11,Tijuana,Monterrey,0,3,Caliente
+274,2022-2023_2_A,1/09/2022,Jornada 12,Club Atlético de San Luis,Tijuana,0,0,Alfonso Lastras Ramírez
+275,2022-2023_2_A,1/09/2022,Jornada 12,Querétaro,Puebla,1,1,La Corregidora
+276,2022-2023_2_A,2/09/2022,Jornada 12,Necaxa,León,3,2,Victoria
+277,2022-2023_2_A,2/09/2022,Jornada 12,FC Juárez,Cruz Azul,2,2,Olímpico Benito Juárez
+278,2022-2023_2_A,3/09/2022,Jornada 12,Pachuca,Santos Laguna,2,0,Hidalgo
+279,2022-2023_2_A,3/09/2022,Jornada 12,Monterrey,Mazatlán FC,0,0,Estadio BBVA
+280,2022-2023_2_A,3/09/2022,Jornada 12,Atlas,Pumas,0,0,Jalisco
+281,2022-2023_2_A,3/09/2022,Jornada 12,América,Tigres,2,1,Azteca
+282,2022-2023_2_A,4/09/2022,Jornada 12,Toluca,Guadalajara,0,0,Nemesio Diez
+283,2022-2023_2_A,6/09/2022,Jornada 13,León,FC Juárez,1,0,Nou Camp
+284,2022-2023_2_A,6/09/2022,Jornada 13,Santos Laguna,Necaxa,3,1,TSM Corona
+285,2022-2023_2_A,6/09/2022,Jornada 13,Monterrey,Cruz Azul,3,2,Estadio BBVA
+286,2022-2023_2_A,6/09/2022,Jornada 13,América,Club Atlético de San Luis,3,0,Azteca
+287,2022-2023_2_A,7/09/2022,Jornada 13,Puebla,Pachuca,2,2,Cuauhtémoc
+288,2022-2023_2_A,7/09/2022,Jornada 13,Tigres,Toluca,3,1,Universitario
+289,2022-2023_2_A,7/09/2022,Jornada 13,Mazatlán FC,Atlas,1,0,Estadio Mazatlán
+290,2022-2023_2_A,7/09/2022,Jornada 13,Pumas,Querétaro,4,1,Olímpico Universitario
+291,2022-2023_2_A,7/09/2022,Jornada 13,Tijuana,Guadalajara,1,2,Caliente
+292,2022-2023_2_A,9/09/2022,Jornada 14,FC Juárez,Monterrey,0,1,Olímpico Benito Juárez
+293,2022-2023_2_A,10/09/2022,Jornada 14,Querétaro,Santos Laguna,3,3,La Corregidora
+294,2022-2023_2_A,10/09/2022,Jornada 14,Necaxa,América,1,2,Victoria
+295,2022-2023_2_A,10/09/2022,Jornada 14,Tigres,León,0,1,Universitario
+296,2022-2023_2_A,10/09/2022,Jornada 14,Toluca,Pumas,2,2,Nemesio Diez
+297,2022-2023_2_A,10/09/2022,Jornada 14,Guadalajara,Puebla,1,0,Estadio AKRON
+298,2022-2023_2_A,11/09/2022,Jornada 14,Cruz Azul,Mazatlán FC,2,0,Azteca
+299,2022-2023_2_A,11/09/2022,Jornada 14,Atlas,Club Atlético de San Luis,1,3,Jalisco
+300,2022-2023_2_A,11/09/2022,Jornada 14,Pachuca,Tijuana,6,1,Hidalgo
+301,2022-2023_2_A,13/09/2022,Jornada 9,Guadalajara,Tigres,1,4,Estadio AKRON
+302,2022-2023_2_A,14/09/2022,Jornada 8,FC Juárez,Pachuca,2,1,Olímpico Benito Juárez
+303,2022-2023_2_A,14/09/2022,Jornada 5,América,Santos Laguna,3,3,Azteca
+304,2022-2023_2_A,15/09/2022,Jornada 16,Cruz Azul,León,2,1,Azteca
+305,2022-2023_2_A,16/09/2022,Jornada 15,Puebla,Tigres,2,1,Cuauhtémoc
+306,2022-2023_2_A,16/09/2022,Jornada 15,Mazatlán FC,Toluca,1,1,Estadio Mazatlán
+307,2022-2023_2_A,17/09/2022,Jornada 15,Monterrey,Atlas,2,0,Estadio BBVA
+308,2022-2023_2_A,17/09/2022,Jornada 15,América,Guadalajara,2,1,Azteca
+309,2022-2023_2_A,18/09/2022,Jornada 15,Pumas,Cruz Azul,1,2,Olímpico Universitario
+310,2022-2023_2_A,18/09/2022,Jornada 15,Santos Laguna,FC Juárez,2,0,TSM Corona
+311,2022-2023_2_A,18/09/2022,Jornada 15,León,Querétaro,3,1,Nou Camp
+312,2022-2023_2_A,18/09/2022,Jornada 15,Club Atlético de San Luis,Pachuca,1,2,Alfonso Lastras Ramírez
+313,2022-2023_2_A,18/09/2022,Jornada 15,Tijuana,Necaxa,1,1,Caliente
+314,2022-2023_2_A,23/09/2022,Jornada 16,Necaxa,Mazatlán FC,2,2,Victoria
+315,2022-2023_2_A,23/09/2022,Jornada 7,Puebla,Pumas,2,1,Cuauhtémoc
+316,2022-2023_2_A,30/09/2022,Jornada 17,Puebla,América,1,2,Cuauhtémoc
+317,2022-2023_2_A,30/09/2022,Jornada 17,FC Juárez,Pumas,3,1,Olímpico Benito Juárez
+318,2022-2023_2_A,1/10/2022,Jornada 17,Club Atlético de San Luis,Tigres,0,3,Alfonso Lastras Ramírez
+319,2022-2023_2_A,1/10/2022,Jornada 17,Monterrey,Pachuca,0,0,Estadio BBVA
+320,2022-2023_2_A,1/10/2022,Jornada 17,Atlas,Necaxa,1,0,Jalisco
+321,2022-2023_2_A,1/10/2022,Jornada 17,Cruz Azul,Guadalajara,2,1,Azteca
+322,2022-2023_2_A,2/10/2022,Jornada 17,Toluca,Querétaro,4,1,Nemesio Diez
+323,2022-2023_2_A,2/10/2022,Jornada 17,Santos Laguna,Mazatlán FC,3,0,TSM Corona
+324,2022-2023_2_A,2/10/2022,Jornada 17,León,Tijuana,2,2,Nou Camp
+325,2022-2023_2_A,8/10/2022,Recalificación,Tigres,Necaxa,2,0,Universitario
+326,2022-2023_2_A,8/10/2022,Recalificación,Cruz Azul,León,1,0,Azteca
+327,2022-2023_2_A,9/10/2022,Recalificación,Toluca,FC Juárez,3,0,Nemesio Diez
+328,2022-2023_2_A,9/10/2022,Recalificación,Puebla,Guadalajara,1,1,Cuauhtémoc
+329,2022-2023_2_A,12/10/2022,Cuartos Ida,Puebla,América,1,6,Cuauhtémoc
+330,2022-2023_2_A,12/10/2022,Cuartos Ida,Cruz Azul,Monterrey,0,0,Azteca
+331,2022-2023_2_A,13/10/2022,Cuartos Ida,Toluca,Santos Laguna,4,3,Nemesio Diez
+332,2022-2023_2_A,13/10/2022,Cuartos Ida,Tigres,Pachuca,1,0,Universitario
+333,2022-2023_2_A,15/10/2022,Cuartos Vuelta,Monterrey,Cruz Azul,3,0,Estadio BBVA
+334,2022-2023_2_A,15/10/2022,Cuartos Vuelta,América,Puebla,5,1,Azteca
+335,2022-2023_2_A,16/10/2022,Cuartos Vuelta,Santos Laguna,Toluca,1,2,TSM Corona
+336,2022-2023_2_A,16/10/2022,Cuartos Vuelta,Pachuca,Tigres,2,1,Hidalgo
+337,2022-2023_2_A,19/10/2022,Semifinal Ida,Toluca,América,2,1,Nemesio Diez
+338,2022-2023_2_A,20/10/2022,Semifinal Ida,Pachuca,Monterrey,5,2,Hidalgo
+339,2022-2023_2_A,22/10/2022,Semifinal Vuelta,América,Toluca,1,1,Azteca
+340,2022-2023_2_A,23/10/2022,Semifinal Vuelta,Monterrey,Pachuca,0,1,Estadio BBVA
+341,2022-2023_2_A,27/10/2022,Final Ida,Toluca,Pachuca,1,5,Nemesio Diez
+342,2022-2023_2_A,30/10/2022,Final Vuelta,Pachuca,Toluca,3,1,Hidalgo
