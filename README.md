@@ -6,3 +6,16 @@ Proyecto realizado para la clase de Manejo de Datos en la Universidad Nacional A
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/0lqG1xp7ymc)
 
 ## Requisitos
+
+- Python 3.11 o superior
+- Librerías de python: numpy, pandas, mysql-connector-python, selenium (versión 4), webdriver-manager, prettytable
+- Google Chrome, versión acorde a tu versión de Selenium
+- Una base de datos ya sea local o remota
+- Hardware suficiente para ejecutar 3 pestañas de chrome simultáneas de manera estable
+- Conexión de internet estable y de al menos 10mb de velocidad (de lo contrario podrías tener problemas en el web scraping)
+
+## Modo de uso (Primera vez)
+
+Una vez instalado todo y funcinando correctamente, asegurate de tener una cuenta en tu base de datos que permita crear bases de datos, tablas y subir datos a través de la librería mysql-connector-python, abre el programa ejecutando el archivo "main.py" con python e introduce los datos de conexión a tu base de datos.
+
+Una vez realizado eso, selecciona la opción 1. "Actualizar base de datos" y asegurate de leer las advertencias, pues podrías borrar accidentalmente información en tu base de datos. En caso de continuar con la operación, espera a que se realice el proceso de web scraping, recuerda mantener el cursor fuera de cualquier ventana de chrome. Recuerda que sólo puedes obtener datos a partir de la temporada 2021-2022, de lo contrario el programa podría fallar.
